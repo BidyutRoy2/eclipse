@@ -32,7 +32,7 @@ NC='\033[0m' # No Color
 show_menu() {
     clear
     echo -e "${CYAN}============================================================${NC}"
-    echo -e "${CYAN}    Eclipse Node Automatic Install Toolkit - BY GA Crypto   ${NC}"
+    echo -e "${CYAN}    Eclipse Node Automatic Install Toolkit - BY HiddenGem   ${NC}"
     echo -e "${CYAN}============================================================${NC}"
     echo -e "${GREEN}1. Install Eclipse Node (Complete Setup)${NC}"
     echo -e "${GREEN}2. Backup Your Wallet${NC}"
