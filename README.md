@@ -2,8 +2,7 @@
 
 - 5M max supply.
 - NOT pre-mined + ZERO team/insider allocations.
-- Currently Trading @ 45$ per token
-
+- 
 🔧 Install the Node Toolkit:  
 ```
 apt update && apt install sudo wget bash curl screen -y && apt upgrade -y  
